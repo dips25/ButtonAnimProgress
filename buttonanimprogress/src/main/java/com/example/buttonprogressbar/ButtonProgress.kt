@@ -113,14 +113,6 @@ class ButtonProgress : FrameLayout {
 
         typedArray.recycle()
 
-        Toast.makeText(c,text,Toast.LENGTH_SHORT).show()
-
-
-
-
-
-
-
         Handler().post(){
 
             mWidth = width;

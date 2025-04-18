@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        var bp: ButtonProgress = findViewById(com.example.buttonprogressbar.R.id.button_progress);
+        var bp: ButtonProgress = findViewById(R.id.button_progress);
 
         bp.setOnClickListener {
 
