@@ -2,7 +2,7 @@ Welcome to the ButtonAnimProgress wiki!
 
 ### Add dependency
 
-implementation "com.github.dips25:ButtonAnimProgress:v1.1"
+implementation "com.github.dips25:ButtonAnimProgress:v1.3"
 
 ### Add in layout
 
@@ -11,14 +11,14 @@ implementation "com.github.dips25:ButtonAnimProgress:v1.1"
 *         `android:layout_height="50dp"`
 *         `app:layout_constraintTop_toTopOf="parent"`
 *         `android:layout_margin="20dp"`
-*         `custom:text="Click"`
-*         `custom:textColor="@color/white"`
-*         `custom:textSize="12"`
-*         `custom:backgroundColor="@android:color/holo_green_dark"`
-*         `custom:progressBackground="@android:color/holo_blue_dark"`
-*         `custom:drawable="@drawable/gradient_drawable"`
-*         `custom:typeface="@font/font_default"`
-*         `custom:duration="300"`
+*         `app:text="Click"`
+*         `app:textColor="@color/white"`
+*         `app:textSize="12"`
+*         `app:backgroundColor="@android:color/holo_green_dark"`
+*         `app:progressBackground="@android:color/holo_blue_dark"`
+*         `app:drawable="@drawable/gradient_drawable"`
+*         `app:typeface="@font/font_default"`
+*         `app:duration="300"`
 *         `android:id="@+id/button_progress"/>`
 
 
@@ -45,13 +45,13 @@ implementation "com.github.dips25:ButtonAnimProgress:v1.1"
 
 ### Modify
 
-        `custom:text="Click"`
-        `custom:textColor="@color/white"`
-        `custom:textSize="12"`
-        `custom:backgroundColor="@android:color/holo_green_dark"`
-        `custom:progressBackground="@android:color/holo_blue_dark"`
-        `custom:drawable="@drawable/gradient_drawable"`
-        `custom:typeface="@font/font_default"`
-        `custom:duration="300"`
+        `app:text="Click"`
+        `app:textColor="@color/white"`
+        `app:textSize="12"`
+        `app:backgroundColor="@android:color/holo_green_dark"`
+        `app:progressBackground="@android:color/holo_blue_dark"`
+        `app:drawable="@drawable/gradient_drawable"`
+        `app:typeface="@font/font_default"`
+        `app:duration="300"`
 
-        ![Screen_recording_20250418_082531](https://github.com/user-attachments/assets/852eb6d2-1e5d-4c95-9ca8-ed7c38c02423)
+        
