@@ -59,4 +59,6 @@ implementation "com.github.dips25:ButtonAnimProgress:v1.1"
         custom:typeface="@font/font_default"
         custom:duration="300"
 ```
+
+![Screen_recording_20250418_082531](https://github.com/user-attachments/assets/e2c3a6eb-4585-484f-9a71-912d21e45e51)
         
